@@ -1,5 +1,5 @@
 # Dma-Firmware
-Custom 1:1 dma firmware, full tlp bar emulation for 35t and 75t dma cards
+Custom 1:1 dma firmware, full tlp bar emulation withd drivers for 35t/75t/100t/m2 dma cards
 
 DMA Firmware. 1:1 CFG of real device, always custom to each user.
 --------------------------------------------------------
@@ -10,7 +10,7 @@ DRIVERED FIRMWARE
 
 Information:
 
-DMA card: 35T/75T (All Versions) Flashing: We will provide everything you need + 24/7 support. Why buy this: This is the latest technology in firmware creation which really puts you ahead of the anticheats, the safest firmware we offer, we highly rate this firmware for our clients wanting to stay the most safe.
+DMA card: 35T/75T/100T/M2 (All Versions) Flashing: We will provide everything you need + 24/7 support. Why buy this: This is the latest technology in firmware creation which really puts you ahead of the anticheats, the safest firmware we offer, we highly rate this firmware for our clients wanting to stay the most safe.
 
 What is Drivered? This firmware will send and receive drivers signals, as some games block disabled drivers, true 1:1 cfg space, driver support, custom to each user and not pooled, DRVSCAN: Shows green on drvscan, loads legit driver succesfully.
 
